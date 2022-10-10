@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<dcterms xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+	<title>A logic-based framework for collection/item metadata relationships</title>
+	<creator xlink:type="simple" xlink:href="https://orcid.org/0000-0002-3625-1253" xlink:show="new">Wickett, Karen</creator>
+	<publisher  xlink:type="simple" xlink:href="https://www.emerald.com/insight/" xlink:show="new">Emerald Publishing Limited</publisher>
+	<rightsHolder  xlink:type="simple" xlink:href="https://www.emerald.com/" xlink:show="new">Emerald Publishing Limited</rightsHolder>
+	<type xsi:type="dcterms:dcmitype">Text</type>
+	<type>Journal Article</type>
+	<format xsi:type="dcterms:imt">application/pdf</format>
+	<extent>14 pages</extent>
+	<language xsi:type="dcterms: rfc5646">en</language>
+	<identifier>10.1108/JD-01-2018-0017</identifier>
+	<identifier>urn:doi:10.1108/JD-01-2018-0017</identifier>
+	<identifier xsi:type="dcterms:uri">https://doi.org/10.1108/JD-01-2018-0017</identifier>
+	<bibliographicCitation>Wickett, K. (2018). A logic-based framework for collection/item metadata relationships. Journal of Documentation, 74(6), 1175–1189. https://doi.org/10.1108/JD-01-2018-0017</bibliographicCitation>
+	<abstract>Purpose – The purpose of this paper is to present a framework for the articulation of relationships between collection-level and item-level metadata as logical inference rules. The framework is intended to allow the systematic generation of relevant propagation rules and to enable the assessment of those rules for particular contexts and the translation of rules into algorithmic processes.
+Design/methodology/approach – The framework was developed using first order predicate logic. Relationships between collection-level and item-level description are expressed as propagation rules – inference rules where the properties of one entity entail conclusions about another entity in virtue of a particular relationship those individuals bear to each other. Propagation rules for reasoning between the collection and item level are grouped together in the framework according to their logical form as determined by the nature of
+the propagation action and the attributes involved in the rule.
+Findings – The primary findings are the analysis of relationships between collection-level and item-level metadata, and the framework of categories of propagation rules. In order to fully develop the framework, the paper includes an analysis of colloquial metadata records and the collection membership relation that provides a general method for the translation of metadata records into formal knowledge representation languages.
+Originality/value – The method for formalizing metadata records described in the paper represents significant progress in the application of knowledge representation techniques to problems of metadata creation and management, providing a flexible technique for encoding colloquial metadata as a set of statements in first-order logic. The framework of rules for collection/item metadata relationships has a range of potential applications for the enhancement or metadata systems and vocabularies.</abstract>
+	<tableOfContents>1. Introduction 2. Background and related work 3. Formalizing collection/item 4. Discussion 5. Conclusion</tableOfContents>
+	<subject>Semantics</subject>
+	<subject>Cataloguing</subject>
+	<subject>Metadata</subject>
+	<subject>Digital Libraries</subject>
+	<subject>Linked Data</subject>
+	<subject>Collections</subject>
+	<subject>Information Modeling</subject>
+	<subject xsi:type="dcterms:lcsh"  xlink:type="simple" xlink:href="http://id.loc.gov/authorities/subjects/sh85119870" xlink:show="new">Semantics</subject>
+	<subject xsi:type="dcterms:lcsh"  xlink:type="simple" xlink:href="http://id.loc.gov/authorities/subjects/sh85020816" xlink:show="new">Cataloging</subject>
+	<subject xsi:type="dcterms:lcsh"  xlink:type="simple" xlink:href="http://id.loc.gov/authorities/subjects/sh96000740" xlink:show="new">Metadata</subject>
+	<subject xsi:type="dcterms:lcsh"  xlink:type="simple" xlink:href="http://id.loc.gov/authorities/subjects/sh95008857" xlink:show="new">Digital Libraries</subject>
+	<subject xsi:type="dcterms:lcsh"  xlink:type="simple" xlink:href="http://id.loc.gov/authorities/subjects/sh2013002090" xlink:show="new">Linked data</subject>
+	<subject xsi:type="dcterms:lcsh"  xlink:type="simple" xlink:href="http://id.loc.gov/authorities/subjects/sh85076704" xlink:show="new">Library materials</subject>
+	<subject xsi:type="dcterms:lcsh"  xlink:type="simple" xlink:href="http://id.loc.gov/authorities/subjects/sh00009202" xlink:show="new">Information modeling</subject>
+	<created xsi:type="dcterms:w3cdtf">2018-01-27</created>
+	<issued xsi:type="dcterms:w3cdtf">2018-08-24</issued>
+	<available xsi:type="dcterms:w3cdtf">2018-08-20</available>
+	<modified xsi:type="dcterms:w3cdtf">2018-06-01</modified>
+	<dateCopyrighted xsi:type="dcterms:w3cdtf">2018</dateCopyrighted>
+	<dateSubmitted  xsi:type="dcterms:w3cdtf">2018-01-27</dateSubmitted>
+	<dateAccepted xsi:type="dcterms:w3cdtf">2018-06-02</dateAccepted>
+	<isPartOf xsi:type="dcterms:uri">https://emerald.com/insight/publication/issn/0022-0418/vol/74/iss/6</isPartOf>
+	<isPartOf xlink:type="simple" xlink:href="https://portal.issn.org/resource/ISSN/0022-0418" xlink:show="new">urn:issn:0022-0418</isPartOf>urn:issn:0022-0418
+	<isPartOf  xlink:type="simple" xlink:href="https://emerald.com/insight/publication/issn/0022-0418/" xlink:show="new">Journal of Documentation</isPartOf>
+	<isPartOf xlink:type="simple" xlink:href="https://emerald.com/insight/publication/issn/0022-0418/vol/74/iss/6" xlink:show="new">Journal of Documentation 74(6)</isPartOf>
+	<references xsi:type="dcterms:uri">http://www.calisphere.universityofcalifornia.edu/</references>
+	<references xsi:type="dcterms:uri">http://dublincore.org/groups/collections/collection-application-profile/</references>
+	<references xsi:type="dcterms:uri">http://id.loc.gov/authorities/subjects.html</references>
+	<references xlink:type="simple" xlink:href="https://doi.org/10.1108/07378831211213256" xlink:show="new">Baker, T. (2012), “Libraries, languages of description, and linked data: a Dublin Core perspective”, Library Hi Tech, Vol. 30 No. 1, pp. 116-133.</references>
+	<references xlink:type="simple" xlink:href="https://doi.org/10.1080/15332748.2011.650124" xlink:show="new">Bountouri, L. and Gergatsoulis, M. (2011), “The semantic mapping of archival metadata to the CIDOC CRM ontology”, Journal of Archival Organization, Vol. 9 Nos 3-4, pp. 174-207.</references>
+	<references xlink:type="simple" xlink:href="https://doi.org/10.1016/B978-1-4832-0771-1.50022-9" xlink:show="new">Brachman, R.J., McGuinness, D.L., Patel-Schneider, P.F., Resnick, L.A. and Borgida, A. (1991), “Living with CLASSIC: when and how to use a KL-ONE-like language”, in Sowa, J.F. (Ed.), Principles of Semantic Networks, The Morgan Kaufmann Series in Representation and Reasoning, Morgan Kaufmann, Burlington, MA, pp. 401-456.</references>
+	<references xlink:type="simple" xlink:href="https://archivaria.ca/index.php/archivaria/article/view/12480" xlink:show="new">Currall, J., Moss, M. and Stuart, S. (2004), “What is a collection?”, Archivaria, No. 58, pp. 131-146.</references>
+	<references xlink:type="simple" xlink:href="https://doi.org/10.1609/aimag.v24i3.1720" xlink:show="new">Doerr, M. (2003), “The CIDOC conceptual reference module: an ontological approach to semantic interoperability of metadata”, AI magazine, Vol. 24 No. 3, pp. 75-92.</references>
+	<references>Dublin Core Collection Description Task Group (2007), “Dublin Core Collection Description Application Profile”, available at: http://dublincore.org/groups/collections/collection-application-profile/ (accessed August 9, 2018).</references>
+	<references  xlink:type="simple" xlink:href="https://doi.org/10.1007/978-3-642-35233-1_26" xlink:show="new">Gaitanou, P., Bountouri, L. and Gergatsoulis, M. (2012), “Automatic generation of crosswalks through CIDOC CRM”, Proceedings of the 10th International Conference, MTSR 2016, Metadata and Semantics Research, Göttingen, November 22-25, 2016, Springer, pp. 264-275.</references>
+	<references xlink:type="simple" xlink:href="https://doi.org/10.1007/s00799-008-0033-1" xlink:show="new">Gonçalves, M.A., Fox, E.A. and Watson, L.T. (2008), “Towards a digital library theory: a formal digital library ontology”, International Journal on Digital Libraries, Vol. 8 No. 2, pp. 91-114.</references>
+	<references xlink:type="simple" xlink:href="https://doi.org/10.17723/aarc.76.2.p071x02401282qx2" xlink:show="new">Gueguen, G., da Fonseca, V., Pitti, D. and Grimoüard, C. (2013), “Toward an international conceptual model for archival description: a preliminary report from the international council on archives’ experts group on archival description”, The American Archivist, Vol. 76 No. 2, pp. 567-584.</references>
+	<references xlink:type="simple" xlink:href="http://www.ukoln.ac.uk/metadata/rslp/model/amcc-v31.pdf" xlink:show="new">Heaney, M. (2000), “An analytic model of collections and their catalogues”, UK Office for Library and Information Science, Oxford.</references>
+	<references xlink:type="simple" xlink:href="https://doi.org/10.2200/S00334ED1V01Y201102WBE001" xlink:show="new">Heath, T. and Bizer, C. (2011), “Linked data: Evolving the web into a global data space”, Synthesis Lectures on the Semantic Web: Theory and Technology, Vol. 1 No. 1, pp. 1-136.</references>
+	<references xlink:type="simple" xlink:href="https://journal.code4lib.org/articles/9214" xlink:show="new">Johnson, T. and Estlund, K. (2014), “Recipes for enhancing digital collections with linked data”, Code4Lib Journal, No. 23.</references>
+	<references xlink:type="simple" xlink:href="https://dl.acm.org/doi/abs/10.1145/2756406.2756970" xlink:show="new">Karadkar, U.P., Wickett, K., Parikh, M., Furuta, R., Sheehy, J., Junnutula, M.R. and Tzou, J. (2015), “Computationally supported collection-level descriptions in large heterogeneous metadata aggregations”, Proceedings of the 15th ACM/IEEE-CS Joint Conference on Digital Libraries, ACM, New York, NY, pp. 271-272, available at: http://doi.acm.org/10.1145/2756406.2756970</references>
+	<references xlink:type="simple" xlink:href="https://www.w3.org/TR/rdf-concepts/" xlink:show="new">Klyne, G. and Carroll, J. (2004), “Resource description framework (RDF): concepts and abstract syntax”, available at: www.w3.org/TR/rdf-concepts/ (accessed August 9, 2018).</references>
+	<references xlink:type="simple" xlink:href="https://www.dlib.org/dlib/november98/lagoze/11lagoze.html" xlink:show="new">Lagoze, C. and Fielding, D. (1998), “Defining collections in distributed digital libraries”, D-Lib Magazine, Vol. 4 No. 11.</references>
+	<references xlink:type="simple" xlink:href="https://doi.org/10.1002/1097-4571(2000)9999:9999<::AID-ASI1018>3.0.CO;2-T" xlink:show="new">Lee, H.-L. (2000), “What is a collection?”, Journal of the American Society for Information Science, Vol. 51 No. 12, pp. 1106-1113.</references>
+	<references xlink:type="simple" xlink:href="https://doi.org/10.1007/978-3-642-05183-8_8" xlink:show="new">Meghini, C. and Spyratos, N. (2010), “Unifying the concept of collection in digital libraries”, in Zbigniew, W.R. and Li-Shiang, T. (Eds), Advances in Intelligent Information Systems, Springer, pp. 197-224.</references>
+	<references xlink:type="simple" xlink:href="https://doi.org/10.1002/meet.14504301161" xlink:show="new">Palmer, C.L., Knutson, E., Twidale, M. and Zavalina, O. (2006), “Collection definition in federated digital resource development”, Proceedings of the 69th ASIS&T Annual Meeting, Austin, TX, November 3-8.</references>
+	<references xlink:type="simple" xlink:href="http://dlib.org/dlib/september00/powell/09powell.html" xlink:show="new">Powell, A., Heaney, M. and Dempsey, L. (2000), “RSLP collection description”, D-lib Magazine, Vol. 6 No. 9, pp. 1082-9873.</references>
+	<references xlink:type="simple" xlink:href="https://dcpapers.dublincore.org/pubs/article/view/755" xlink:show="new">Shreeves, S. and Cole, T. (2003), “Developing a collection registry for IMLS NLG digital collections”, Proceedings of the International DCMI Metadata Conference and Workshop, pp. 241-242.</references>
+	<references xlink:type="simple" xlink:href="https://core.ac.uk/download/pdf/10208461.pdf" xlink:show="new">Wickett, K.M. (2012), “Collection/item metadata relationships”, PhD dissertation, University of Illinois at Urbana – Champaign, Urbana-Champaign, IL.</references>
+	<references xlink:type="simple" xlink:href="http://doi.org/10.1002/meet.14504701218" xlink:show="new">Wickett, K.M., Renear, A.H. and Urban, R.J. (2010), “Rule categories for collection/item metadata relationships”, Proceedings of the 73rd ASIS&T Annual Meeting, Pittsburgh, PA, October 22-27.</references>
+	<references>Wickett, K.M., Renear, A.H. and Furner, J. (2011), “Are collections sets?”, Proceedings of the 74th ASIS&T Annual Meeting, New Orleans, LA, October 9-12.</references>
+	<references xlink:type="simple" xlink:href="http://www.dlib.org/dlib/may14/wickett/05wickett.html" xlink:show="new">Wickett, K.M., Isaac, A., Doerr, M., Fenlon, K., Meghini, C. and Palmer, C.L. (2014), “Representing cultural collections in digital aggregation and exchange environments”, D-Lib Magazine, Vol. 20 Nos 5/6.</references>
+<references xlink:type="simple" xlink:href="https://archivaria.ca/index.php/archivaria/article/view/13384" xlink:show="new">Yeo, G. (2012), “The conceptual fonds and the physical collection”, Archivaria, No. 73, pp. 43-80.</references>
+	<isReferencedBy xsi:type="dcterms:uri">https://doi.org/10.4324/9781003131816-3</isReferencedBy>
+	<isReferencedBy xsi:type="dcterms:uri">https://doi.org/10.1038/s41597-022-01707-6</isReferencedBy>
+	<isReferencedBy xlink:type="simple" xlink:href="https://doi.org/10.4324/9781003131816-3" xlink:show="new">Vukadin, A., & Štefanac, T. (2021). Collection-level and item-level description in the digital environment. In K. Golub & Y.-H. Liu (Eds.), Information and Knowledge Organisation in Digital Humanities (1st ed., pp. 44–62). Routledge. https://doi.org/10.4324/9781003131816-3</isReferencedBy>
+<isReferencedBy xlink:type="simple" xlink:href="https://doi.org/10.1038/s41597-022-01707-6" xlink:show="new">Batista, D., Gonzalez-Beltran, A., Sansone, S.-A., & Rocca-Serra, P. (2022). Machine actionable metadata models. Scientific Data, 9(1), 1. https://doi.org/10.1038/s41597-022-01707-6</isReferencedBy>
+	<rights>Copyright</rights>
+	<accessRights>Subscription Access</accessRights>
+	<license>All Rights Reserved</license>
+	<audience>Metadata researchers</audience>
+	<audience>Metadata practitioners</audience>
+	<audience>Information Architects</audience>
+</dcterms>	

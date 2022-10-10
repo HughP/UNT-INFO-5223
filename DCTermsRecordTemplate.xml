@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<dcterms xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+	<title>[…]</title>
+	<alternative xml:lang="[...]">[…]</alternative>
+	<contributor xsi:type="[...]">[…]</contributor>
+	<creator xsi:type="[...]">[…]</creator>
+	<publisher>[…]</publisher>
+	<rightsHolder>[…]</rightsHolder>
+	<type xsi:type="[...]">[…]</type>
+	<format xsi:type="[...]">[…]</format>
+	<extent>[…]</extent>
+	<medium>[…]</medium>
+	<language xsi:type="[...]">[…]</language>
+	<identifier xsi:type="[...]">[…]</identifier>
+	<bibliographicCitation>[…]</bibliographicCitation>
+	<description>[…]</description>
+	<abstract>[…]</abstract>
+	<tableOfContents>[…]</tableOfContents>
+	<subject xsi:type="[...]">[…]</subject>
+	<coverage xsi:type="[...]">[…]</coverage>
+	<temporal xsi:type="[...]">[…]</temporal>
+	<spatial xsi:type="[...]">[…]</spatial>
+	<date xsi:type="[...]">[…]</date>
+	<created xsi:type="[...]">[…]</created>
+	<issued xsi:type="[...]">[…]</issued>
+	<available xsi:type="[...]">[…]</available>
+	<modified xsi:type="[...]">[…]</modified>
+	<valid xsi:type="[...]">[…]</valid>
+	<dateCopyrighted xsi:type="[...]">[…]</dateCopyrighted>
+	<dateSubmitted xsi:type="[...]">[…]</dateSubmitted>
+	<dateAccepted xsi:type="[...]">[…]</dateAccepted>
+	<relation>[…]</relation>
+	<source xsi:type="[...]">[…]</source>
+	<isPartOf xsi:type="[...]">[…]</isPartOf>
+	<hasPart>[…]</hasPart>
+	<isVersionOf>[…]</isVersionOf>
+	<hasVersion>[…]</hasVersion>
+	<isFormatOf>[…]</isFormatOf>
+	<hasFormat>[…]</hasFormat>
+	<replaces>[…]</replaces>
+	<isReplacedBy>[…]</isReplacedBy>
+	<requires>[…]</requires>
+	<isRequiredBy>[…]</isRequiredBy>
+	<references>[…]</references>
+	<isReferencedBy xsi:type="[...]">[…]</isReferencedBy>
+	<conformsTo>[…]</conformsTo>
+	<rights>[…]</rights>
+	<accessRights>[…]</accessRights>
+	<license>[…]</license>
+	<audience>[…]</audience>
+	<provenance>[…]</provenance>
+</dcterms>	
