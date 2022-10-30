@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <mods>
+    <titleInfo>
+      <title>A logic-based framework for collection/item metadata relationships</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <name type="personal">
+      <namePart type="family">Wickett</namePart>
+      <namePart type="given">Karen</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <identifier type="doi">10.1108/JD-01-2018-0017</identifier>
+    <location>
+      <url usage="primary display" dateLastAccessed="2022-10-29 19:28:11">https://www.emerald.com/insight/content/doi/10.1108/JD-01-2018-0017/full/html</url>
+    </location>
+    <abstract>Purpose
+              The purpose of this paper is to present a framework for the articulation of relationships between collection-level and item-level metadata as logical inference rules. The framework is intended to allow the systematic generation of relevant propagation rules and to enable the assessment of those rules for particular contexts and the translation of rules into algorithmic processes.
+            
+            
+              Design/methodology/approach
+              The framework was developed using first order predicate logic. Relationships between collection-level and item-level description are expressed as propagation rules &#x2013; inference rules where the properties of one entity entail conclusions about another entity in virtue of a particular relationship those individuals bear to each other. Propagation rules for reasoning between the collection and item level are grouped together in the framework according to their logical form as determined by the nature of the propagation action and the attributes involved in the rule.
+            
+            
+              Findings
+              The primary findings are the analysis of relationships between collection-level and item-level metadata, and the framework of categories of propagation rules. In order to fully develop the framework, the paper includes an analysis of colloquial metadata records and the collection membership relation that provides a general method for the translation of metadata records into formal knowledge representation languages.
+            
+            
+              Originality/value
+              The method for formalizing metadata records described in the paper represents significant progress in the application of knowledge representation techniques to problems of metadata creation and management, providing a flexible technique for encoding colloquial metadata as a set of statements in first-order logic. The framework of rules for collection/item metadata relationships has a range of potential applications for the enhancement or metadata systems and vocabularies.</abstract>
+    <language>
+      <languageTerm type="text">en</languageTerm>
+    </language>
+    <recordInfo>
+      <recordContentSource>DOI.org (Crossref)</recordContentSource>
+    </recordInfo>
+    <relatedItem type="host">
+      <genre authority="marcgt">journal</genre>
+      <part>
+        <detail type="volume">
+          <number>74</number>
+        </detail>
+        <detail type="issue">
+          <number>6</number>
+        </detail>
+        <extent unit="pages">
+          <start>1175</start>
+          <end>1189</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>2018-08-24</dateIssued>
+        <issuance>continuing</issuance>
+      </originInfo>
+      <identifier type="issn">0022-0418</identifier>
+      <titleInfo>
+        <title>Journal of Documentation</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>JD</title>
+      </titleInfo>
+    </relatedItem>
+  </mods>
+</modsCollection>

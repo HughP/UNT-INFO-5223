@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://www.loc.gov/mods/v3" version="3.8" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/ http://www.loc.gov/standards/mods/v3/mods-3-8.xsd">
+	<titleInfo lang="eng">
+		<title>A logic-based framework for collection/item metadata relationships</title>
+	</titleInfo>
+	<name type="personal">
+		<namePart type="family">Wickett</namePart>
+		<namePart type="given">Karen</namePart>
+		<namePart type="termsOfAddress">Professor</namePart>
+		<role>
+			<roleTerm authority="marcrelator" type="text">Author</roleTerm>
+		</role>
+		<affiliation>School of Information Sciences, University of Illinois at Urbana – Champaign, Champaign, Illinois, USA</affiliation>
+		<nameIdentifier type="orcid">0000-0002-3625-1253</nameIdentifier>
+		<nameIdentifier typeURI="http://id.loc.gov/vocabulary/identifiers/orcid">0000-0002-3625-1253</nameIdentifier>
+		<description>Not the same Karen Wickett represented by https://lccn.loc.gov/n2019021814</description>
+	</name>
+	<typeOfResource valueURI="http://id.loc.gov/vocabulary/resourceTypes/txt">txt</typeOfResource>
+	<genre authority="marcgt">article</genre>
+	<originInfo eventType="publication">
+		<place>
+			<placeTerm authority="marccountry" type="code">xxk</placeTerm>
+			<placeTerm type="text">United Kingdom</placeTerm>
+		</place>
+		<agent type="corporate">
+			<namePart>Emerald Publishing Limited</namePart>
+			<role>
+				<roleTerm>Publisher</roleTerm>
+			</role>
+		</agent>
+		<dateCreated encoding="w3cdtf">2018-01-27</dateCreated>
+		<dateIssued encoding="w3cdtf">2018-08-24</dateIssued>
+		<copyrightDate encoding="w3cdtf">2018</copyrightDate>
+	</originInfo>
+	<language>
+		<languageTerm authority="marclanguage" type="code">eng</languageTerm>
+	</language>
+	<physicalDescription>
+		<internetMediaType>application/pdf</internetMediaType>
+		<extent unit="pages">14</extent>
+		<digitalOrigin>born digital</digitalOrigin>
+	</physicalDescription>
+	<abstract xml:lang="en">Purpose
+              The purpose of this paper is to present a framework for the articulation of relationships between collection-level and item-level metadata as logical inference rules. The framework is intended to allow the systematic generation of relevant propagation rules and to enable the assessment of those rules for particular contexts and the translation of rules into algorithmic processes.
+            
+              Design/methodology/approach
+              The framework was developed using first order predicate logic. Relationships between collection-level and item-level description are expressed as propagation rules &#x2013; inference rules where the properties of one entity entail conclusions about another entity in virtue of a particular relationship those individuals bear to each other. Propagation rules for reasoning between the collection and item level are grouped together in the framework according to their logical form as determined by the nature of the propagation action and the attributes involved in the rule.
+            
+              Findings
+              The primary findings are the analysis of relationships between collection-level and item-level metadata, and the framework of categories of propagation rules. In order to fully develop the framework, the paper includes an analysis of colloquial metadata records and the collection membership relation that provides a general method for the translation of metadata records into formal knowledge representation languages.
+            
+              Originality/value
+              The method for formalizing metadata records described in the paper represents significant progress in the application of knowledge representation techniques to problems of metadata creation and management, providing a flexible technique for encoding colloquial metadata as a set of statements in first-order logic. The framework of rules for collection/item metadata relationships has a range of potential applications for the enhancement or metadata systems and vocabularies.</abstract>
+	<tableOfContents type="Outline">1. Introduction 2. Background and related work 3. Formalizing collection/item 4. Discussion 5. Conclusion</tableOfContents>
+	<targetAudience authority="marctarget">specialized</targetAudience>
+	<targetAudience>Metadata Specialists</targetAudience>
+	<subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects/" valueURI="http://id.loc.gov/authorities/subjects/sh85119870">
+		<topic>Semantics</topic>
+	</subject>
+	<subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects/" valueURI="http://id.loc.gov/authorities/subjects/sh85020816">
+		<topic>Cataloging</topic>
+	</subject>
+	<subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects/" valueURI="http://id.loc.gov/authorities/subjects/sh96000740">
+		<topic>Metadata</topic>
+	</subject>
+	<subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects/" valueURI="http://id.loc.gov/authorities/subjects/sh95008857">
+		<topic>Digital Libraries</topic>
+	</subject>
+	<subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects/" valueURI="http://id.loc.gov/authorities/subjects/sh2013002090">
+		<topic>Linked Data</topic>
+	</subject>
+	<subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects/" valueURI="http://id.loc.gov/authorities/subjects/sh85076704">
+		<topic>Library materials</topic>
+	</subject>
+	<subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects/" valueURI="http://id.loc.gov/authorities/subjects/sh00009202">
+		<topic>Information Modeling</topic>
+	</subject>
+	<part>
+		<detail type="volume">
+			<number>74</number>
+		</detail>
+		<detail type="issue">
+			<number>6</number>
+		</detail>
+		<extent unit="pages">
+			<start>1175</start>
+			<end>1189</end>
+		</extent>
+	</part>
+	<relatedItem type="host">
+		<titleInfo>
+			<title>Journal of Documentation</title>
+		</titleInfo>
+		<titleInfo type="abbreviated">
+			<title>JD</title>
+		</titleInfo>
+		<identifier type="issn">0022-0418</identifier>
+		<location>
+			<url>https://www.emerald.com/insight/publication/issn/0022-0418</url>
+		</location>
+		<typeOfResource valueURI="http://id.loc.gov/vocabulary/resourceTypes/txt">txt</typeOfResource>
+		<genre authority="marcgt">journal</genre>
+	</relatedItem>
+	<identifier type="doi">10.1108/JD-01-2018-0017</identifier>
+	<location>
+		<url>https://doi.org/10.1108/JD-01-2018-0017</url>
+	</location>
+	<accessCondition type="use and reproduction">copyright</accessCondition>
+	<accessCondition type="restriction on access">Subscription Access</accessCondition>
+	<recordInfo>
+		<recordContentSource xlink:type="simple" xlink:href="http://hugh4.us" xlink:show="new">Hugh Paterson III</recordContentSource>
+		<recordCreationDate encoding="w3cdtf">2022-10-29</recordCreationDate>
+		<recordChangeDate encoding="w3cdtf">2022-10-29</recordChangeDate>
+		<recordIdentifier>hp3-1</recordIdentifier>
+		<recordInfoNote>Created as part of the class assignment for UNT INFO 5223. </recordInfoNote>
+	</recordInfo>
+</mods>	
