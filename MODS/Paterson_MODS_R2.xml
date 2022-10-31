@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://www.loc.gov/mods/v3" version="3.8" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/ http://www.loc.gov/standards/mods/v3/mods-3-8.xsd">
+	<titleInfo lang="eng">
+		<nonSort>The </nonSort>
+		<title>Fortress of Königstein</title>
+	</titleInfo>
+	<titleInfo lang="eng" type="alternative" displayLabel="also known as">
+		<nonSort>The </nonSort>
+		<title>Fortress of Königstein from the North-West</title>
+	</titleInfo>
+	<titleInfo lang="ger">
+		<title>Festung Königstein, in der Sächsischen Schweiz</title>
+	</titleInfo>
+	<name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names"  valueURI="http://id.loc.gov/authorities/names/n80045168">
+		<namePart type="family">Bellotto, </namePart>
+		<namePart type="given">Bernardo, </namePart>
+		<namePart type="date">1722-1780</namePart>
+		<role>
+			<roleTerm authority="marcrelator" type="text">Artist</roleTerm>
+		</role>
+		<affiliation>Commissioned Artist of Augustus III, King of Poland and Elector of Saxony</affiliation>
+		<nameIdentifier type="naf">n80045168</nameIdentifier>
+		<alternativeName altType="no specific type">Canaletto</alternativeName>
+		<alternativeName altType="no specific type">Canaletti</alternativeName>
+		<description>Bernardo, Bernardo (1722-1780) and his uncle Giovanni Antonio Canal (Venice, Republic of Venice, October 28, 1697 – April 19, 1768, Venice) were both called Canaletto (singular) and Canaletti (plural) in the eighteenth and nineteenth centuries. Giovanni is distinguished via https://lccn.loc.gov/n79065963</description>
+	</name>
+	<typeOfResource valueURI="http://id.loc.gov/vocabulary/resourceTypes/img">img</typeOfResource>
+	<genre authority="marcgt">art original</genre>
+	<originInfo eventType="production">
+		<place>
+			<placeTerm authority="marccountry" type="code">gw</placeTerm>
+			<placeTerm type="text">Germany</placeTerm>
+		</place>
+		<agent type="person">
+			<name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names"  valueURI="http://id.loc.gov/authorities/names/n80045168">
+				<namePart type="family">Bellotto, </namePart>
+				<namePart type="given">Bernardo, </namePart>
+				<namePart type="date">1722-1780</namePart>
+				<role>
+					<roleTerm authority="marcrelator" type="text">Artist</roleTerm>
+					<roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+				</role>
+				<affiliation>Commisioned Artist of Augustus III, King of Poland and Elector of Saxony</affiliation>
+			</name>
+		</agent>
+		<agent type="person">
+			<name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names"  valueURI="http://id.loc.gov/authorities/names/n85330554">
+				<namePart type="family">Augustus, </namePart>
+				<namePart type="given">Frederick, </namePart>
+				<namePart type="date">1696-1763</namePart>
+				<namePart type="termsOfAddress">III</namePart>
+				<namePart type="termsOfAddress">Elector of Saxony</namePart>
+				<namePart type="termsOfAddress">King of Poland</namePart>
+				<displayForm>Augustus III, King of Poland</displayForm>
+				<alternativeName altType="no specific type">Frederick Augustus II, Elector of Saxony, 1696-1763</alternativeName>
+				<role>
+					<roleTerm authority="marcrelator" type="text">Patron</roleTerm>
+				</role>
+				<affiliation>Owner and ruler governing the depicted fortress.</affiliation>
+			</name>
+		</agent>
+		<dateCreated encoding="text" qualifier="approximate">1756-1758</dateCreated>
+	</originInfo>
+	<originInfo eventType="distribution">
+		<agent>
+			<name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names"  valueURI="http://id.loc.gov/authorities/names/n87926827">
+				<namePart type="family">Palmerston, </namePart>
+				<namePart type="given">Henry Temple, </namePart>
+				<namePart type="date">1739-1802</namePart>
+				<namePart type="termsOfAddress">2nd Viscount</namePart>
+				<alternativeName altType="no specific type">Lord Palmerston</alternativeName>
+				<role>
+					<roleTerm authority="marcrelator" type="text">Owner</roleTerm>
+				</role>
+			</name>
+		</agent>
+		<place>
+			<placeTerm authority="marccountry" type="code">xxk</placeTerm>
+			<placeTerm type="text">United Kingdom</placeTerm>
+		</place>
+		<dateOther encoding="w3cdtf">1778-03-07</dateOther>
+	</originInfo>
+	<originInfo eventType="distribution">
+		<agent>
+			<name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names"  valueURI="http://id.loc.gov/authorities/names/n81019980">
+				<namePart type="family">Palmerston, </namePart>
+				<namePart type="given">Henry John Temple, </namePart>
+				<namePart type="date">1784-1865</namePart>
+				<namePart type="termsOfAddress">Lord</namePart>
+				<namePart type="termsOfAddress">3rd Viscount</namePart>
+				<namePart type="termsOfAddress">Prime Minister</namePart>
+				<displayForm>Henry John Temple Palmerston</displayForm>
+				<role>
+					<roleTerm authority="marcrelator" type="text">Former Owner</roleTerm>
+				</role>
+			</name>
+		</agent>
+		<agent>
+			<name type="personal">
+				<namePart type="family">Anderson</namePart>
+				<role>
+					<roleTerm authority="marcrelator" type="text">Other</roleTerm>
+				</role>
+				<affiliation>Anderson is held to be the name of the agent who purchased the painting for Henry Lygon, 4th Earl Beauchamp (1784-1863).</affiliation>
+			</name>
+		</agent>
+		<place>
+			<placeTerm authority="marccountry" type="code">xxk</placeTerm>
+			<placeTerm type="text">United Kingdom</placeTerm>
+		</place>
+		<dateOther encoding="w3cdtf">1850-11-05</dateOther>
+		<agent>
+			<name type="personal" authority="wikidata" authorityURI="https://www.wikidata.org/wiki"  valueURI="https://www.wikidata.org/wiki/Q5725205">
+				<namePart type="family">Lygon, </namePart>
+				<namePart type="given">Henry, </namePart>
+				<namePart type="date">1784-1863</namePart>
+				<namePart type="termsOfAddress">4th Earl Beauchamp</namePart>
+				<displayForm>Henry Lygon, 4th Earl Beauchamp</displayForm>
+				<role>
+					<roleTerm authority="marcrelator" type="text">Owner</roleTerm>
+				</role>
+			</name>
+		</agent>
+	</originInfo>
+	<originInfo>
+		<agent>
+			<name type="personal" authority="wikidata" authorityURI="https://www.wikidata.org/wiki"  valueURI="https://www.wikidata.org/wiki/Q41236655">
+				<namePart type="family">Schiwe, </namePart>
+				<namePart type="given">Else, </namePart>
+				<namePart type="date">1895-1989</namePart>
+				<namePart type="termsOfAddress">Countess Beauchamp</namePart>
+				<displayForm>Else, Countess Beauchamp</displayForm>
+				<role>
+					<roleTerm authority="marcrelator" type="text">Former Owner</roleTerm>
+				</role>
+			</name>
+		</agent>
+		<place>
+			<placeTerm authority="marccountry" type="code">xxk</placeTerm>
+			<placeTerm type="text">United Kingdom</placeTerm>
+		</place>
+		<dateOther encoding="w3cdtf">1991-12-11</dateOther>
+		<agent>
+			<name type="corporate" authority="wikidata" authorityURI="https://www.wikidata.org/wiki"  valueURI="https://www.wikidata.org/wiki/Q41236655">
+				<namePart type="corporate">Meissner Fine Art Ltd</namePart>
+				<role>
+					<roleTerm authority="marcrelator" type="text">Owner</roleTerm>
+				</role>
+			</name>
+			<name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names"  valueURI="http://id.loc.gov/authorities/names/nr89002976">
+				<namePart type="corporate">Bernheimer Fine Arts Limited</namePart>
+				<role>
+					<roleTerm authority="marcrelator" type="text">Owner</roleTerm>
+				</role>
+			</name>
+		</agent>
+	</originInfo>
+	<originInfo>
+		<agent>
+			<name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names"  valueURI="http://id.loc.gov/authorities/names/n79054426">
+				<namePart type="corporate">National Gallery of Art (U.S.)</namePart>
+				<role>
+					<roleTerm authority="marcrelator" type="text">Owner</roleTerm>
+				</role>
+			</name>
+		</agent>
+		<place>
+			<placeTerm authority="marccountry" type="code">xxk</placeTerm>
+			<placeTerm type="text">United Kingdom</placeTerm>
+		</place>
+		<place>
+			<placeTerm authority="marccountry" type="code">xxu</placeTerm>
+			<placeTerm type="text">United States</placeTerm>
+		</place>
+		<dateOther encoding="w3cdtf">1993-06-03</dateOther>
+		<agent>
+			<name type="corporate" authority="wikidata" authorityURI="https://www.wikidata.org/wiki"  valueURI="https://www.wikidata.org/wiki/Q41236655">
+				<namePart type="corporate">Meissner Fine Art Ltd</namePart>
+				<role>
+					<roleTerm authority="marcrelator" type="text">Former Owner</roleTerm>
+				</role>
+			</name>
+			<name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names"  valueURI="http://id.loc.gov/authorities/names/nr89002976">
+				<namePart type="corporate">Bernheimer Fine Arts Limited</namePart>
+				<role>
+					<roleTerm authority="marcrelator" type="text">Former Owner</roleTerm>
+				</role>
+			</name>
+		</agent>
+	</originInfo>
+	<note type="ownership">Commissioned by Augustus III, king of Poland and elector of Saxony [1696-1763];[1] Henry Temple, 2nd viscount Palmerston [1739-1802], London;[2] by inheritence to his son Henry John Temple, 3rd viscount Palmerston [1784-1865], London; (sale, Foster’s, London, 5 November 1850, no. 290);[3] (Anderson); Henry, 4th earl Beauchamp [1784-1863], Madresfield Court, Worcestershire;[4] by inheritance to Else, countess Beauchamp [1895-1989];[5] (sale, Sotheby's, London, 11 December 1991, no. 18); (Bernheimer Fine Arts Ltd., London and Munich, and Meissner Fine Art Ltd., Zurich and London); sold 3 June 1993 to NGA.
+
+[1] Five views of Königstein were commissioned and executed on canvases of the same size and format between 1756 and 1758. They were intended to complete the earlier views of Dresden and Pirna painted for the king and to be placed in the Stallgebäude, the wing of the royal palace that housed the paintings collection. The commission was interrupted, however, by the hostilities of the Seven Years' War (1756-1763), and the paintings were never delivered to the royal collection. It is unclear whether Bellotto had finished all the paintings before he departed Dresden in 1758; four views of Königstein were listed in a catalogue of his apartment contents made before he left the city, which he returned to in 1761 for five years. (See Lucy Chiswell, “Bernardo Bellotto and the Fortress of Königstein,” in Bellotto: The Königstein Views Reunited, exh. cat. London, 2021: 34, 39, n. 19.) The paintings might have been seized by the Prussians during the siege of Dresden, Pirna, and Königstein, and then sold. Alternatively, following the disarray of the Saxon court and the depletion of its treasury, Bellotto might have retained the canvases and sold them privately. In 1765, he published a large etching of the Washington painting, well as one of the painting now (as of 2021) in the collection of the earl of Derby, Knowsley Hall. By the late eighteenth century all five paintings had arrived in England; the first two came to light in a sale at Christie's, London, 7 March 1778, lots 79 and 80, described as "A View of the fortress of Koningstein [sic] in Saxony, painted for the King of Poland. A ditto, its companion" (sale catalogue, Christie, Manson, and Woods, Catalogue of the capital collection of Italian, French, Flemish and Dutch pictures; digitized online https://archive.org/details/frick-31072002722207/page/n9/mode/2up; accessed 30 November 2021). Both passed to the collection of the marquess of Londonderry, Wynyard Park, Durham, and were acquired by the City Art Gallery, Manchester, in 1983 (Byam Shaw, James, "Two Views of the Castle of Königstein by Bernardo Bellotto," National Art Collections Fund Review [1984]: 139-140).
+
+[2] The 2nd viscount Palmerston, a Whig politician who served 40 years in Parliament, acquired three Königstein paintings in the 1790s. Now in the National Gallery of Art, the National Gallery, London, and the collection of the earl of Derby, all three retain the gilt-wood frame Lord Palmerston had made for them in the 1790s. Where and when he acquired the paintings is unknown. They hung in his London House in Hanover Square, which he acquired in 1790. However, alterations were still being made to the property in 1796, when he moved in, so it is unlikely that the paintings were there before that date (Connell, Brian, Portrait of a Whig Peer. Compiled from the Papers of the Second Viscount Palmerston 1739-1802, London, 1957: 208-209, 259-260, 346). The earliest reference to Bellotto in the Palmerston collection is found an undated inventory (paper watermarked 1796), "Catalogue of Pictures belonging to Lord Palmerston in Hanover Square," which records a "View of Keenigsteen” (sic) by “Cannaletti." (Bellotto, like his more famous uncle, was called both Canaletto and Canaletti in the eighteenth and nineteenth centuries.) It was valued at 250 pounds, but this may refer to all three Königstein paintings (Stephen Lloyd, “Bellotto, Britain, and the Königstein Paintings,” in London, 2021: 44). One of the paintings is recorded after Lord Palmerston's death in an undated manuscript (paper watermarked 1804) of "Pictures in Stanhope Street and Hanover Square" as "Cannaletti Koningstein 105 pounds" (Sotheby's 1991 sale catalogue, 37, citing Broadlands Papers, Southampton University Library Archives and Manuscripts, BR 126/11 and BR 126/15).
+
+[3] The long-held family tradition that the 3rd Lord Palmerston gave it, perhaps to pay a debt, to William Lygon, 1st earl Beauchamp [1747-1816], Madresfield Court, Worcestershire (as recounted in Sotheby's 1991 sale catalogue, 37), is contradicted by a copy of the 1840 Foster’s sale catalogue marked as having been sold for 99 pounds, 15 shillings to “Anderson” (Getty Provenance Index, Br-5804, Lot 0290). The painting is described as “A View of Koenigstein on the Elbe, cattle and group of figures in the costume of the time in the foreground; the buildings and figures on this remarkable height are beautifully sketched in, and the environs and approaches painted with great truth and power.” (The NGA was alerted to the existence of the Foster’s sale catalogue by Letizia Treves, curator the National Gallery, London. See email of 22 February 2021 in curatorial records, as well as Lloyd, pp. 43-45 and 47, n. 18).
+
+[4] See note 3 for reference to Anderson. According to the provenance of the painting reconstructed in the 2021 London exhibition catalogue (p. 56), Anderson was probably the agent purchasing for Henry, 4th Earl Beauchamp (1784-1863).
+
+[5] The painting is mentioned as belonging to the earl Beauchamp in an 1875 catalogue of the collection of the earls of Derby. (Scharf, George, A Descriptive and Historical Catalogue of the Collection of Pictures at Knowsley Hall, London, 1875: 10, at end of entry for no. 17. Digitized by the GRL, accessed 11 November 2021.) The painting presumably descended to his son, Henry, 5th earl Beauchamp (1829-1866); his brother, Frederick, 6th earl Beauchamp (1830-1891); his son, William, 7th earl Beauchamp (1872-1938); his son, William, 8th earl Beauchamp (1903-1979); and then to his wife, Else, countess Beauchamp (1895-1989).</note>
+	<note type="description">Image — In the distance, a fortress sits on a rocky plateau below a sky filled with lightly rolling white and gray clouds in this horizontal landscape painting. The horizon line is low, about a quarter of the way up the composition, so the plateau and fortress loom high above the surrounding land. The fortress is made up two distinct sections, with a nearly windowless stronghold or massive city wall to the right and what looks like a row of six interconnected white rowhouses to the left. More rooflines peek over the stronghold. Tiny in scale, people work on scaffolding erected against a grassy cliff below the white section. Five men and women and a child and a few cows gather in the foreground, closer to us. People walk through the landscape in the background and along roads leading to the fortress. A hilly landscape recedes deep into the distance to our left below pale peach and lilac-purple cloud.
+Construction &amp; Materials — The support is a fine plain-weave fabric of medium weight, prepared with a light red ground of medium thickness. The paint has been applied with fluent brushwork and the handling reveals considerable variety in touch and application. In many places in the landscape and fortress the paint has been applied with strong brushstrokes, employing fairly thick paint to vary thickness and texture. The deliberate use of a fairly dry brush to create texture is particularly evident in the fortress. The upper-right edge of the escarpment was originally placed 4 cm to the right of its present location; indications of this change are faintly visible. In contrast, the sky has been painted more loosely and rapidly, the broad, sweeping strokes imparting a sense of active weather, light, and movement.
+The thinner application of paint in the sky has permitted the red ground to show through, although in certain areas the aging of the paint, previous varnish removals, and abrasion have revealed more of the red ground than was originally intended. Aside from minor abrasion in the sky and trees in the lower-left foreground, the painting is in exceptional condition. It was treated in 1992 by Bruno Heimberg at the Doerner Institute, Munich, prior to acquisition. Additional conservation treatment, including varnish removal and in painting, was carried out by David Bull in 1993.</note>
+	<physicalDescription>
+		<form type="material" authority="att" authorityURI="http://vocab.getty.edu/aat" valueURI="http://vocab.getty.edu/aat/300033799">oil paintings (visual works)</form>
+		<form type="technique" authority="att" authorityURI="http://vocab.getty.edu/aat" valueURI="http://vocab.getty.edu/aat/300033701">paintings by material or technique</form>
+		<form>oil on canvas</form>
+		<note type="medium">oil on canvas</note>
+		<note type="physical details">oil on canvas</note>
+		<extent unit="cm">overall: 133 x 235.7; framed: 159.4 x 263.5 x 6.4</extent>
+		<extent unit="inches">overall: 52 3/8 x 92 13/16; framed: 62 3/4 x 103 3/4 x 2 1/2</extent>
+		<note type="condition">The support is a fine plain-weave fabric of medium weight, prepared with a light red ground of medium thickness. The paint has been applied with fluent brushwork and the handling reveals considerable variety in touch and application. In many places in the landscape and fortress the paint has been applied with strong brushstrokes, employing fairly thick paint to vary thickness and texture. The deliberate use of a fairly dry brush to create texture is particularly evident in the fortress. The upper-right edge of the escarpment was originally placed 4 cm to the right of its present location; indications of this change are faintly visible. In contrast, the sky has been painted more loosely and rapidly, the broad, sweeping strokes imparting a sense of active weather, light, and movement.
+The thinner application of paint in the sky has permitted the red ground to show through, although in certain areas the aging of the paint, previous varnish removals, and abrasion have revealed more of the red ground than was originally intended. Aside from minor abrasion in the sky and trees in the lower-left foreground, the painting is in exceptional condition. It was treated in 1992 by Bruno Heimberg at the Doerner Institute, Munich, prior to acquisition. Additional conservation treatment, including varnish removal and in painting, was carried out by David Bull in 1993.</note>
+	</physicalDescription>
+	<targetAudience authority="maudience" authorityURI="https://id.loc.gov/vocabulary/maudience" valueURI="http://id.loc.gov/vocabulary/maudience/gen">General</targetAudience>
+	<targetAudience authority="marctarget">general</targetAudience>
+	<note type="reference">Bellotto, B. (1756). The Fortress of Königstein [Oil on canvas]. National Gallery of Art.</note>
+	<subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects/" valueURI="http://id.loc.gov/authorities/subjects/sh85020733">
+		<topic>Castles in art</topic>
+	</subject>
+	<subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects/" valueURI="http://id.loc.gov/authorities/subjects/sh85099061">
+		<topic>Peasants</topic>
+	</subject>
+	<subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects/" valueURI="http://id.loc.gov/authorities/subjects/sh85033666">
+		<topic>Cows</topic>
+	</subject>
+	<subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects/" valueURI="http://id.loc.gov/authorities/subjects/sh2009115447">
+		<topic>Art, European--18th century</topic>
+	</subject>
+	<subject authority="tgn"  valueURI="http://vocab.getty.edu/page/tgn/7147073">
+		<geographic>Königstein (hill)</geographic>
+	</subject>
+	<relatedItem otherType="co-creation">
+		<titleInfo>
+			<title>The Fortress of Königstein from the North</title>
+		</titleInfo>
+		<name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names"  valueURI="http://id.loc.gov/authorities/names/n80045168">
+			<namePart type="family">Bellotto, </namePart>
+			<namePart type="given">Bernardo, </namePart>
+			<namePart type="date">1722-1780</namePart>
+			<role>
+				<roleTerm authority="marcrelator" type="text">Artist</roleTerm>
+			</role>
+			<affiliation>Commissioned Artist of Augustus III, King of Poland and Elector of Saxony</affiliation>
+			<nameIdentifier type="naf">n80045168</nameIdentifier>
+			<alternativeName altType="no specific type">Canaletto</alternativeName>
+			<alternativeName altType="no specific type">Canaletti</alternativeName>
+			<description>Bernardo, Bernardo (1722-1780) and his uncle Giovanni Antonio Canal (Venice, Republic of Venice, October 28, 1697 – April 19, 1768, Venice) were both called Canaletto (singular) and Canaletti (plural) in the eighteenth and nineteenth centuries. Giovanni is distinguished via https://lccn.loc.gov/n79065963</description>
+		</name>
+		<typeOfResource valueURI="http://id.loc.gov/vocabulary/resourceTypes/img">img</typeOfResource>
+		<genre authority="marcgt">picture</genre>
+		<physicalDescription>
+			<form type="material" authority="att" authorityURI="http://vocab.getty.edu/aat" valueURI="http://vocab.getty.edu/aat/300033799">oil paintings (visual works)</form>
+			<form type="technique" authority="att" authorityURI="http://vocab.getty.edu/aat" valueURI="http://vocab.getty.edu/aat/300033701">paintings by material or technique</form>
+			<form>oil on canvas</form>
+			<note type="medium">oil on canvas</note>
+			<note type="physical details">oil on canvas</note>
+		</physicalDescription>
+		<location>
+			<physicalLocation type="current" authority="marcorg">uklong</physicalLocation>
+			<physicalLocation>National Gallery, London</physicalLocation>
+		</location>
+	</relatedItem>
+	<relatedItem otherType="co-creation">
+		<titleInfo>
+			<title>The Fortress of Königstein from the South</title>
+		</titleInfo>
+		<name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names"  valueURI="http://id.loc.gov/authorities/names/n80045168">
+			<namePart type="family">Bellotto, </namePart>
+			<namePart type="given">Bernardo, </namePart>
+			<namePart type="date">1722-1780</namePart>
+			<role>
+				<roleTerm authority="marcrelator" type="text">Artist</roleTerm>
+			</role>
+			<affiliation>Commissioned Artist of Augustus III, King of Poland and Elector of Saxony</affiliation>
+			<nameIdentifier type="naf">n80045168</nameIdentifier>
+			<alternativeName altType="no specific type">Canaletto</alternativeName>
+			<alternativeName altType="no specific type">Canaletti</alternativeName>
+			<description>Bernardo, Bernardo (1722-1780) and his uncle Giovanni Antonio Canal (Venice, Republic of Venice, October 28, 1697 – April 19, 1768, Venice) were both called Canaletto (singular) and Canaletti (plural) in the eighteenth and nineteenth centuries. Giovanni is distinguished via https://lccn.loc.gov/n79065963</description>
+		</name>
+		<typeOfResource valueURI="http://id.loc.gov/vocabulary/resourceTypes/img">img</typeOfResource>
+		<genre authority="marcgt">picture</genre>
+		<physicalDescription>
+			<form type="material" authority="att" authorityURI="http://vocab.getty.edu/aat" valueURI="http://vocab.getty.edu/aat/300033799">oil paintings (visual works)</form>
+			<form type="technique" authority="att" authorityURI="http://vocab.getty.edu/aat" valueURI="http://vocab.getty.edu/aat/300033701">paintings by material or technique</form>
+			<form>oil on canvas</form>
+			<note type="medium">oil on canvas</note>
+			<note type="physical details">oil on canvas</note>
+		</physicalDescription>
+		<location>
+			<physicalLocation type="current">Knowsley Hall, Merseyside</physicalLocation>
+		</location>
+	</relatedItem>
+	<relatedItem otherType="co-creation">
+		<titleInfo>
+			<title>The Fortress of Königstein: Courtyard with the Brunnenhaus </title>
+		</titleInfo>
+		<name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names"  valueURI="http://id.loc.gov/authorities/names/n80045168">
+			<namePart type="family">Bellotto, </namePart>
+			<namePart type="given">Bernardo, </namePart>
+			<namePart type="date">1722-1780</namePart>
+			<role>
+				<roleTerm authority="marcrelator" type="text">Artist</roleTerm>
+			</role>
+			<affiliation>Commissioned Artist of Augustus III, King of Poland and Elector of Saxony</affiliation>
+			<nameIdentifier type="naf">n80045168</nameIdentifier>
+			<alternativeName altType="no specific type">Canaletto</alternativeName>
+			<alternativeName altType="no specific type">Canaletti</alternativeName>
+			<description>Bernardo, Bernardo (1722-1780) and his uncle Giovanni Antonio Canal (Venice, Republic of Venice, October 28, 1697 – April 19, 1768, Venice) were both called Canaletto (singular) and Canaletti (plural) in the eighteenth and nineteenth centuries. Giovanni is distinguished via https://lccn.loc.gov/n79065963</description>
+		</name>
+		<typeOfResource valueURI="http://id.loc.gov/vocabulary/resourceTypes/img">img</typeOfResource>
+		<genre authority="marcgt">picture</genre>
+		<physicalDescription>
+			<form type="material" authority="att" authorityURI="http://vocab.getty.edu/aat" valueURI="http://vocab.getty.edu/aat/300033799">oil paintings (visual works)</form>
+			<form type="technique" authority="att" authorityURI="http://vocab.getty.edu/aat" valueURI="http://vocab.getty.edu/aat/300033701">paintings by material or technique</form>
+			<form>oil on canvas</form>
+			<note type="medium">oil on canvas</note>
+			<note type="physical details">oil on canvas</note>
+		</physicalDescription>
+		<location>
+			<physicalLocation type="current">Manchester Art Gallery</physicalLocation>
+		</location>
+	</relatedItem>
+	<relatedItem otherType="co-creation">
+		<titleInfo>
+			<title>The Fortress of Königstein: Courtyard with the Magdalenenburg</title>
+		</titleInfo>
+		<name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names"  valueURI="http://id.loc.gov/authorities/names/n80045168">
+			<namePart type="family">Bellotto, </namePart>
+			<namePart type="given">Bernardo, </namePart>
+			<namePart type="date">1722-1780</namePart>
+			<role>
+				<roleTerm authority="marcrelator" type="text">Artist</roleTerm>
+			</role>
+			<affiliation>Commissioned Artist of Augustus III, King of Poland and Elector of Saxony</affiliation>
+			<nameIdentifier type="naf">n80045168</nameIdentifier>
+			<alternativeName altType="no specific type">Canaletto</alternativeName>
+			<alternativeName altType="no specific type">Canaletti</alternativeName>
+			<description>Bernardo, Bernardo (1722-1780) and his uncle Giovanni Antonio Canal (Venice, Republic of Venice, October 28, 1697 – April 19, 1768, Venice) were both called Canaletto (singular) and Canaletti (plural) in the eighteenth and nineteenth centuries. Giovanni is distinguished via https://lccn.loc.gov/n79065963</description>
+		</name>
+		<typeOfResource valueURI="http://id.loc.gov/vocabulary/resourceTypes/img">img</typeOfResource>
+		<genre authority="marcgt">picture</genre>
+		<physicalDescription>
+			<form type="material" authority="att" authorityURI="http://vocab.getty.edu/aat" valueURI="http://vocab.getty.edu/aat/300033799">oil paintings (visual works)</form>
+			<form type="technique" authority="att" authorityURI="http://vocab.getty.edu/aat" valueURI="http://vocab.getty.edu/aat/300033701">paintings by material or technique</form>
+			<form>oil on canvas</form>
+			<note type="medium">oil on canvas</note>
+			<note type="physical details">oil on canvas</note>
+		</physicalDescription>
+		<location>
+			<physicalLocation type="current">Manchester Art Gallery</physicalLocation>
+		</location>
+	</relatedItem>
+	<relatedItem type="isReferencedBy">
+		<titleInfo>
+			<title>Italian Paintings of the Seventeenth and Eighteenth Centuries. The Collections of the National Gallery of Art Systematic Catalogue.</title>
+		</titleInfo>
+		<originInfo type="production">
+			<copyrightDate>1996</copyrightDate>
+			<place>
+				<placeTerm authority="marcgac" authorityURI="http://id.loc.gov/vocabulary/geographicAreas" valueURI="http://id.loc.gov/vocabulary/geographicAreas/n-us-dc">Washington, D.C.,</placeTerm>
+			</place>
+			<publisher>National Gallery of Art</publisher>
+			<agent>
+				<name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names"  valueURI="http://id.loc.gov/authorities/names/n83134599">
+					<namePart type="family">De Grazia, </namePart>
+					<namePart type="given">Diane</namePart>
+					<namePart type="date">1943-</namePart>
+					<role>
+						<roleTerm authority="marcrelator" type="text">Author</roleTerm>
+					</role>
+				</name>
+				<name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names"  valueURI="http://id.loc.gov/authorities/names/n95063264">
+					<namePart type="family">Garberson, </namePart>
+					<namePart type="given">Eric</namePart>
+					<role>
+						<roleTerm authority="marcrelator" type="text">Author</roleTerm>
+					</role>
+				</name>
+				<name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names"  valueURI="http://id.loc.gov/authorities/names/n78085045">
+					<namePart type="family">Bowron, </namePart>
+					<namePart type="given">Edgar Peters</namePart>
+					<role>
+						<roleTerm authority="marcrelator" type="text">Contributor</roleTerm>
+					</role>
+				</name>
+				<name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names"  valueURI="http://id.loc.gov/authorities/names/n93044075">
+					<namePart type="family">Lukehart, </namePart>
+					<namePart type="given">Peter M., </namePart>
+					<namePart type="date">1955-</namePart>
+					<role>
+						<roleTerm authority="marcrelator" type="text">Contributor</roleTerm>
+					</role>
+				</name>
+				<name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names"  valueURI="http://id.loc.gov/authorities/names/no96013728">
+					<namePart type="family">Merling, </namePart>
+					<namePart type="given">Mitchell Frank</namePart>
+					<role>
+						<roleTerm authority="marcrelator" type="text">Contributor</roleTerm>
+					</role>
+				</name>
+			</agent>
+		</originInfo>
+		<typeOfResource valueURI="http://id.loc.gov/vocabulary/resourceTypes/txt">txt</typeOfResource>
+		<genre authority="marcgt">book</genre>
+		<physicalDescription>
+			<internetMediaType>application/pdf</internetMediaType>
+			<extent unit="pages">411</extent>
+			<digitalOrigin>born digital</digitalOrigin>
+		</physicalDescription>
+		<location>
+			<url>https://www.nga.gov/content/dam/ngaweb/research/publications/pdfs/italian-paintings-17th-and-18th-centuries.pdf</url>
+		</location>
+	</relatedItem>
+	<relatedItem type="isReferencedBy">
+		<titleInfo>
+			<title>A New Acquisition: Bernardo Bellotto's 'The Fortress of Königstein from the North'</title>
+		</titleInfo>
+		<originInfo type="production">
+			<copyrightDate encoding="w3cdtf">2018</copyrightDate>
+			<dateCreated encoding="w3cdtf">2018-02-26</dateCreated>
+			<typeOfResource valueURI="http://id.loc.gov/vocabulary/resourceTypes/mov">mov</typeOfResource>
+			<genre authority="marcgt">videorecording</genre>
+			<place>
+				<placeTerm>London</placeTerm>
+			</place>
+			<publisher>The National Gallery</publisher>
+			<agent>
+				<name type="personal">
+					<namePart type="family"> Finaldi, </namePart>
+					<namePart type="given">Gabriele</namePart>
+					<role>
+						<roleTerm authority="marcrelator" type="text">Speaker</roleTerm>
+					</role>
+					<affiliation>Director of the National Gallery</affiliation>
+				</name>
+			</agent>
+		</originInfo>
+		<physicalDescription>
+			<internetMediaType> video/mp4</internetMediaType>
+			<extent unit="minutes">63</extent>
+			<digitalOrigin>born digital</digitalOrigin>
+		</physicalDescription>
+		<location>
+			<url>https://youtu.be/noruxSyVCPg</url>
+		</location>
+	</relatedItem>
+	<identifier type="nga">1993.8.1</identifier>
+	<location>
+		<physicalLocation type="current" authority="marcorg">dsiga</physicalLocation>
+		<physicalLocation>Smithsonian Institution, American Art Museum</physicalLocation>
+		<physicalLocation xlink:href="https://www.nga.gov">National Gallery of Art, Washington, DC. </physicalLocation>
+	</location>
+	<accessCondition type="restriction on access">Not on Display</accessCondition>
+	<recordInfo>
+		<recordContentSource xlink:type="simple" xlink:href="http://hugh4.us" xlink:show="new">Hugh Paterson III</recordContentSource>
+		<recordCreationDate encoding="w3cdtf">2022-10-30</recordCreationDate>
+		<recordChangeDate encoding="w3cdtf">2022-10-30</recordChangeDate>
+		<recordIdentifier>hp3-2</recordIdentifier>
+		<recordInfoNote>Created as part of the class assignment for UNT INFO 5223.</recordInfoNote>
+		<languageOfCataloging>
+			<languageTerm authority="iso639-2">eng</languageTerm>
+		</languageOfCataloging>
+	</recordInfo>
+</mods>
