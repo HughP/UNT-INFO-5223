@@ -10,22 +10,22 @@
 		<namePart type="family">Wickett</namePart>
 		<namePart type="given">Karen</namePart>
 		<namePart type="termsOfAddress">Professor</namePart>
-		<role>
-			<roleTerm authority="marcrelator" type="text">Author</roleTerm>
-		</role>
-		<affiliation>School of Information Sciences, University of Illinois at Urbana – Champaign, Champaign, Illinois, USA</affiliation>
 		<nameIdentifier type="orcid" xlink:href="https://orcid.org/0000-0002-3625-1253">0000-0002-3625-1253</nameIdentifier>
-<!-- The included example doesn't work because LOC does not have a valid URI designated for ORCID. There for it is commented out. Technically one can assign any URI in linked data to any namespace (namespace jacking) but best practice states to only add URIs to resolvable locations.	<nameIdentifier typeURI="http://id.loc.gov/vocabulary/identifiers/orcid">0000-0002-3625-1253</nameIdentifier> 
+		<!-- The included example doesn't work because LOC does not have a valid URI designated for ORCID. There for it is commented out. Technically one can assign any URI in linked data to any namespace (namespace jacking) but best practice states to only add URIs to resolvable locations.	<nameIdentifier typeURI="http://id.loc.gov/vocabulary/identifiers/orcid">0000-0002-3625-1253</nameIdentifier> 
 
 See further discussion here: https://listserv.loc.gov/cgi-bin/wa?A2=ind1808&L=MODS&P=1885 
 See also: https://www.loc.gov/standards/sourcelist/standard-identifier.html#usage where "orcid" can be used with the attribute type in MODS but there is no value for typeURI -->
+		<affiliation>School of Information Sciences, University of Illinois at Urbana – Champaign, Champaign, Illinois, USA</affiliation>
+		<role>
+			<roleTerm authority="marcrelator" type="text" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm>
+		</role>
 		<description>Not the same Karen Wickett represented by https://lccn.loc.gov/n2019021814</description>
 	</name>
 	<typeOfResource valueURI="http://id.loc.gov/vocabulary/resourceTypes/txt">txt</typeOfResource>
-	<genre authority="marcgt">article</genre>
+	<genre authority="marcgt"  authorityURI="http://id.loc.gov/vocabulary/marcgt" valueURI="http://id.loc.gov/vocabulary/marcgt/art">article</genre>
 	<originInfo eventType="publication">
 		<place>
-			<placeTerm authority="marccountry" type="code">xxk</placeTerm>
+			<placeTerm authority="marccountry" type="code" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/xxk">xxk</placeTerm>
 			<placeTerm type="text">United Kingdom</placeTerm>
 		</place>
 		<agent type="corporate">
@@ -34,12 +34,12 @@ See also: https://www.loc.gov/standards/sourcelist/standard-identifier.html#usag
 				<roleTerm>Publisher</roleTerm>
 			</role>
 		</agent>
-		<dateCreated encoding="w3cdtf">2018-01-27</dateCreated>
 		<dateIssued encoding="w3cdtf">2018-08-24</dateIssued>
+		<dateCreated encoding="w3cdtf">2018-01-27</dateCreated>
 		<copyrightDate encoding="w3cdtf">2018</copyrightDate>
 	</originInfo>
 	<language>
-		<languageTerm authority="marclanguage" type="code">eng</languageTerm>
+		<languageTerm authority="marclanguage" type="code" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng">eng</languageTerm>
 	</language>
 	<physicalDescription>
 		<internetMediaType>application/pdf</internetMediaType>
@@ -58,8 +58,9 @@ See also: https://www.loc.gov/standards/sourcelist/standard-identifier.html#usag
               Originality/value
               The method for formalizing metadata records described in the paper represents significant progress in the application of knowledge representation techniques to problems of metadata creation and management, providing a flexible technique for encoding colloquial metadata as a set of statements in first-order logic. The framework of rules for collection/item metadata relationships has a range of potential applications for the enhancement or metadata systems and vocabularies.</abstract>
 	<tableOfContents type="Outline">1. Introduction 2. Background and related work 3. Formalizing collection/item 4. Discussion 5. Conclusion</tableOfContents>
-	<targetAudience authority="marctarget">specialized</targetAudience>
+	<targetAudience authority="marctarget" authorityURI="http://id.loc.gov/vocabulary/maudience" valueURI="http://id.loc.gov/vocabulary/maudience/spe">specialized</targetAudience>
 	<targetAudience>Metadata Specialists</targetAudience>
+	<note type="reference">Wickett, K. (2018). A logic-based framework for collection/item metadata relationships. Journal of Documentation, 74(6), 1175–1189. https://doi.org/10.1108/JD-01-2018-0017</note>
 	<subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects/" valueURI="http://id.loc.gov/authorities/subjects/sh85119870">
 		<topic>Semantics</topic>
 	</subject>
@@ -81,48 +82,53 @@ See also: https://www.loc.gov/standards/sourcelist/standard-identifier.html#usag
 	<subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects/" valueURI="http://id.loc.gov/authorities/subjects/sh00009202">
 		<topic>Information Modeling</topic>
 	</subject>
-	<note  type="reference">Wickett, K. (2018). A logic-based framework for collection/item metadata relationships. Journal of Documentation, 74(6), 1175–1189. https://doi.org/10.1108/JD-01-2018-0017</note>
-	<part>
-		<detail type="volume">
-			<number>74</number>
-		</detail>
-		<detail type="issue">
-			<number>6</number>
-		</detail>
-		<extent unit="pages">
-			<start>1175</start>
-			<end>1189</end>
-		</extent>
-	</part>
 	<relatedItem type="host">
+<!-- In this part I describe from the container. The container is the related item. Then in the "part" record I describe in what part of the container it is found.-->
 		<titleInfo>
 			<title>Journal of Documentation</title>
 		</titleInfo>
 		<titleInfo type="abbreviated">
 			<title>JD</title>
 		</titleInfo>
+		<typeOfResource valueURI="http://id.loc.gov/vocabulary/resourceTypes/txt">txt</typeOfResource>
+		<typeOfResource valueURI="http://id.loc.gov/vocabulary/resourceTypes/per">per</typeOfResource>
+		<!-- There are several ways to code this parodical as a sub-class of text, but marcgt also double encodes this as a journal. -->
+		<genre authority="marcgt">journal</genre>
 		<identifier type="issn">0022-0418</identifier>
 		<location>
 			<url>https://www.emerald.com/insight/publication/issn/0022-0418</url>
 		</location>
-		<typeOfResource valueURI="http://id.loc.gov/vocabulary/resourceTypes/txt">txt</typeOfResource>
-		<typeOfResource valueURI="http://id.loc.gov/vocabulary/resourceTypes/per">per</typeOfResource><!-- There are several ways to code this perodical is a sub-class of text, but marcgt also double encodes this as a journal. -->
-		<genre authority="marcgt">journal</genre>
 	</relatedItem>
 	<identifier type="doi">10.1108/JD-01-2018-0017</identifier>
 	<location>
 		<url>https://doi.org/10.1108/JD-01-2018-0017</url>
-	</location><!--MODS doe not seem to have a way to encode a digital repository's name or the organization running the repository. -->
-	<accessCondition type="use and reproduction">copyright</accessCondition>
+	</location>
+	<!--MODS does not seem to have a way to encode a digital repository's name or the organization running the repository. -->
+	<accessCondition type="use and reproduction" valueURI="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 	<accessCondition type="restriction on access">Subscription Access</accessCondition>
+	<part>
+<!-- In this part I describe from the container down.-->
+		<detail type="volume">
+			<number>74</number>
+		</detail>
+		<detail type="issue">
+			<number>6</number>
+		</detail>
+<!-- The examples in the LOC documentation do not indicate if detail is "recursive" or not. That is have daughter elements. This is unfortunate as logically, "6" might be another descriptor to the main container unit described.-->
+		<extent unit="pages">
+			<start>1175</start>
+			<end>1189</end>
+<!-- It does not make sense to add the extent in two locations in terms of the possible total pages. This is already declared elsewhere.-->
+		</extent>
+	</part>
 	<recordInfo>
 		<recordContentSource xlink:type="simple" xlink:href="http://hugh4.us" xlink:show="new">Hugh Paterson III</recordContentSource>
 		<recordCreationDate encoding="w3cdtf">2022-10-29</recordCreationDate>
-		<recordChangeDate encoding="w3cdtf">2022-10-30</recordChangeDate>
+		<recordChangeDate encoding="w3cdtf">2022-11-04</recordChangeDate>
 		<recordIdentifier>hp3-1</recordIdentifier>
 		<recordInfoNote>Created as part of the class assignment for UNT INFO 5223. </recordInfoNote>
-<languageOfCataloging>
-<languageTerm authority="iso639-2">eng</languageTerm>
-</languageOfCataloging>
+		<languageOfCataloging>
+			<languageTerm authority="iso639-2" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng">eng</languageTerm>
+		</languageOfCataloging>
 	</recordInfo>
-</mods>	
+</mods>
