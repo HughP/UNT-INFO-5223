@@ -10,7 +10,7 @@
 		<namePart type="family">Wickett</namePart>
 		<namePart type="given">Karen</namePart>
 		<namePart type="termsOfAddress">Professor</namePart>
-		<nameIdentifier type="orcid" xlink:href="https://orcid.org/0000-0002-3625-1253">0000-0002-3625-1253</nameIdentifier>
+		<nameIdentifier type="orcid">https://orcid.org/0000-0002-3625-1253</nameIdentifier>
 		<!-- The included example doesn't work because LOC does not have a valid URI designated for ORCID. There for it is commented out. Technically one can assign any URI in linked data to any namespace (namespace jacking) but best practice states to only add URIs to resolvable locations.	<nameIdentifier typeURI="http://id.loc.gov/vocabulary/identifiers/orcid">0000-0002-3625-1253</nameIdentifier> 
 
 See further discussion here: https://listserv.loc.gov/cgi-bin/wa?A2=ind1808&L=MODS&P=1885 
@@ -122,9 +122,9 @@ See also: https://www.loc.gov/standards/sourcelist/standard-identifier.html#usag
 		</extent>
 	</part>
 	<recordInfo>
-		<recordContentSource xlink:type="simple" xlink:href="http://hugh4.us" xlink:show="new">Hugh Paterson III</recordContentSource>
+		<recordContentSource>Hugh Paterson III</recordContentSource>
 		<recordCreationDate encoding="w3cdtf">2022-10-29</recordCreationDate>
-		<recordChangeDate encoding="w3cdtf">2022-11-04</recordChangeDate>
+		<recordChangeDate encoding="w3cdtf">2022-11-07</recordChangeDate>
 		<recordIdentifier>hp3-1</recordIdentifier>
 		<recordInfoNote>Created as part of the class assignment for UNT INFO 5223. </recordInfoNote>
 		<languageOfCataloging>

@@ -443,9 +443,9 @@ The thinner application of paint in the sky has permitted the red ground to show
 	<accessCondition type="restriction on access">Not on Display</accessCondition>
 	<accessCondition type="use and reproduction" valueURI="https://creativecommons.org/publicdomain/mark/1.0/">No Copyright</accessCondition>
 	<recordInfo>
-		<recordContentSource xlink:type="simple" xlink:href="http://hugh4.us" xlink:show="new">Hugh Paterson III</recordContentSource>
+		<recordContentSource>Hugh Paterson III</recordContentSource>
 		<recordCreationDate encoding="w3cdtf">2022-10-30</recordCreationDate>
-		<recordChangeDate encoding="w3cdtf">2022-11-04</recordChangeDate>
+		<recordChangeDate encoding="w3cdtf">2022-11-07</recordChangeDate>
 		<recordIdentifier>hp3-2</recordIdentifier>
 		<recordInfoNote>Created as part of the class assignment for UNT INFO 5223.</recordInfoNote>
 		<languageOfCataloging>
