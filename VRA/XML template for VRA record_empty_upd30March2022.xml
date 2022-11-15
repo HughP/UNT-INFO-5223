@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.loc.gov/standards/vracore/vra-strict-20171101.xsd">
+        <work id="..." refid="..." source="...">
+            <agentSet>
+                <display>...</display>
+                <agent>
+                    <name type="..." vocab="..." refid="...">...</name>
+                    <dates type="...">
+                        <earliestDate>...</earliestDate>
+                        <latestDate>...</latestDate>
+                    </dates>
+                    <culture>...</culture>
+                    <role vocab="..." refid="...">...</role>
+                </agent>
+            </agentSet>
+            <culturalContextSet>
+                <display>...</display>
+                <culturalContext vocab="..." refid="...">...</culturalContext>
+            </culturalContextSet>
+            <dateSet>
+                <display>...</display>
+                <date type="...">
+                    <earliestDate>...</earliestDate>
+                    <latestDate>...</latestDate>
+                </date>
+            </dateSet>
+            <descriptionSet>
+                <display>...</display>
+                <description>...</description>
+            </descriptionSet>
+            <inscriptionSet>
+                <display>...</display>
+                <inscription>
+                    <author vocab="..." refid="...">...</author>
+                    <position>...</position>
+                    <text>...</text>
+                </inscription>
+            </inscriptionSet>
+            <locationSet>
+                <display>...</display>
+                <location type="...">
+                    <name type="..." extent="..." vocab="..." refid="...">...</name>
+                    <refid>...</refid>
+                </location>
+            </locationSet>
+            <materialSet>
+                <display>...</display>
+                <material type="..." vocab="..." refid="...">...</material>
+                <material type="..." vocab="..." refid="...">...</material>
+            </materialSet>
+            <measurementsSet>
+                <display>...</display>
+                <measurements type="..." unit="...">...</measurements>
+                <measurements type="..." unit="...">...</measurements>
+            </measurementsSet>
+            <relationSet>
+                <display>...</display>
+                <relation type="..." relids="..." href="...">...</relation>
+            </relationSet>
+            <rightsSet>
+                <display>...</display>
+                <rights type="...">
+                    <rightsHolder>...</rightsHolder>
+                    <text>...</text>
+                </rights>
+            </rightsSet>
+            <stylePeriodSet>
+                <display>...</display>
+                <stylePeriod vocab="..." refid="...">...</stylePeriod>
+            </stylePeriodSet>
+            <subjectSet>
+                <display>...</display>
+                <subject>
+                    <term type="..." vocab="..." refid="...">...</term>
+                </subject>
+            </subjectSet>
+            <techniqueSet>
+                <display>...</display>
+                <technique vocab="..." refid="...">...</technique>
+            </techniqueSet>
+            <titleSet>
+                <display>...</display>
+                <title pref="..." type="..." xml:lang="...">...</title>
+            </titleSet>
+            <worktypeSet>
+                <display>...</display>
+                <workType vocab="..." refid="...">...</workType>
+            </worktypeSet>
+        </work>
+        <image href="..." id="..." refid="..." source="...">
+            <relationSet>
+                <display>...</display>
+                <relation type="..." relids="...">...</relation>
+            </relationSet>
+            <titleSet>
+                <display>...</display>
+                <title>...</title>
+            </titleSet>    
+        </image>
+    </vra>

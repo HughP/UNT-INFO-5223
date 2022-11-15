@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.loc.gov/standards/vracore/vra-strict-20171101.xsd">
+        <work id="hp3-1" refid="1993.8.1" source="National Gallery of Art, Washington, D.C.">
+            <agentSet>
+                <display>Bellotto, Bernardo (1722-1780)</display>
+                <agent>
+                    <name type="Personal" vocab="ULAN" refid="500028876" dataDate="2022-11-07">Bellotto, Bernardo</name>
+                    <dates type="life" dataDate="2022-11-07">
+                        <earliestDate>1722</earliestDate>
+                        <latestDate>1780</latestDate>
+                    </dates>
+                    <dates type="activity" dataDate="2022-11-07">
+                        <earliestDate>1740</earliestDate>
+                        <latestDate>1768</latestDate>
+                    </dates>
+                    <culture vocab="ULAN" refid="902410">Venetian</culture>
+                    <role vocab="AAT" refid="300025136" dataDate="2022-11-07">painter (artist)</role>
+                    <attribution>Bellotto, Bernardo</role>
+                </agent>
+            </agentSet>
+            <culturalContextSet>
+                <display>Saxon, Germany</display>
+                <culturalContext vocab="ULAN" refid="901880" dataDate="2022-11-07">Saxon</culturalContext>
+            </culturalContextSet>
+            <dateSet>
+                <display dataDate="2022-11-07">created 1756-1758</display>
+                <date type="creation" source="National Gallery of Art description" href="https://www.nga.gov/collection/art-object-page.80924.html#provenance" dataDate="2022-11-07">
+                    <earliestDate>1756</earliestDate>
+                    <latestDate>1758</latestDate>
+                </date>
+            </dateSet>
+            <descriptionSet>
+                <display>In the distance, a fortress sits on a rocky plateau below a sky filled with lightly rolling white and gray clouds in this horizontal landscape painting. The horizon line is low, about a quarter of the way up the composition, so the plateau and fortress loom high above the surrounding land. The fortress is made up two distinct sections, with a nearly windowless stronghold or massive city wall to the right and what looks like a row of six interconnected white rowhouses to the left. More rooflines peek over the stronghold. Tiny in scale, people work on scaffolding erected against a grassy cliff below the white section. Five men and women and a child and a few cows gather in the foreground, closer to us. People walk through the landscape in the background and along roads leading to the fortress. A hilly landscape recedes deep into the distance to our left below pale peach and lilac-purple clouds.</display>
+                <description source="National Gallery of Art" href="https://www.nga.gov/collection/art-object-page.80924.html" dataDate="2022-11-07" extent=""xml:lang="en">In the distance, a fortress sits on a rocky plateau below a sky filled with lightly rolling white and gray clouds in this horizontal landscape painting. The horizon line is low, about a quarter of the way up the composition, so the plateau and fortress loom high above the surrounding land. The fortress is made up two distinct sections, with a nearly windowless stronghold or massive city wall to the right and what looks like a row of six interconnected white rowhouses to the left. More rooflines peek over the stronghold. Tiny in scale, people work on scaffolding erected against a grassy cliff below the white section. Five men and women and a child and a few cows gather in the foreground, closer to us. People walk through the landscape in the background and along roads leading to the fortress. A hilly landscape recedes deep into the distance to our left below pale peach and lilac-purple clouds.</description>
+            </descriptionSet>
+            <locationSet>
+                <display>National Gallery of Art</display>
+                <location type="repository"  dataDate="2022-11-07" xml:lang="en">
+                    <name type="corporate" href="https://lccn.loc.gov/n79054426" vocab="LNAF" refid="n79054426">National Gallery of Art (U.S.)</name>
+                    <refid>1993.8.1</refid>
+                </location>
+                <location type="creation"  dataDate="2022-11-07" xml:lang="en">
+                    <name type="geographic" href="http://vocab.getty.edu/page/tgn/7004455" vocab="TGN" refid="7004455" extent="inhabited place">Dresden</name>
+                    <name type="geographic" href="http://vocab.getty.edu/page/tgn/7000084" vocab="TGN" refid="7000084" extent="nation">Germany</name>
+                </location>
+            </locationSet>
+            <materialSet>
+                <display>oil paint on canvas</display>
+                 <material type="medium" vocab="AAT" refid="300015050" href="" dataDate="2022-11-07">oil paint (paint)</material>
+                 <material type="support" vocab="AAT" refid="300014078" href="" dataDate="2022-11-07">canvas (textile material)</material>
+            </materialSet>
+            <measurementsSet>
+                  <display>overall: 133 x 235.7 cm (52 3/8 x 92 13/16 in.); framed: 159.4 x 263.5 x 6.4 cm (62 3/4 x 103 3/4 x 2 1/2 in.)</display>
+                  <measurements type="height" unit="cm" extent="overall" dataDate="2022-11-07">133</measurements>
+                  <measurements type="width" unit="cm" extent="overall" dataDate="2022-11-07">235.7</measurements> 
+                  <measurements type="height" unit="cm" extent="framed" dataDate="2022-11-07">159.4</measurements>
+                  <measurements type="width" unit="cm" extent="framed" dataDate="2022-11-07">263.5</measurements> 
+                  <measurements type="depth" unit="cm" extent="framed" dataDate="2022-11-07">6.4</measurements>
+            </measurementsSet>
+            <relationSet>
+                <display>The Fortress of Königstein, 1756-1758</display>
+                <relation type="imageIs" relids="hp3-1" dataDate="2022-11-07">The Fortress of Königstein, 1756-1758</relation>
+                <relation type="imageOf" relids="hp3-2" dataDate="2022-11-07">High resolution digital image of The Fortress of Königstein, 1756-1758.</relation>
+            </relationSet>
+            <rightsSet>
+                <display>The underlying visual work is in the public domain.</display>
+                <rights type="publicDomain" dataDate="2022-11-07" >
+                <rightsHolder>not applicable</rightsHolder>
+                    <text>The underlying work is in the public domain.</text>
+                </rights>
+            </rightsSet>
+            <stylePeriodSet>
+                <display>Saxon and Venetan</display>
+                <stylePeriod vocab="AAT" refid="300395656" href="http://vocab.getty.edu/page/aat/300395656" dataDate="2022-11-07" xml:lang="en">Saxon (modern)</stylePeriod>
+                <stylePeriod vocab="AAT" refid="300386574" href="http://vocab.getty.edu/page/aat/300386574" dataDate="2022-11-07" xml:lang="en">Venetan (culture or style)</stylePeriod>
+            </stylePeriodSet>
+            <subjectSet>
+                <display>Königstein (hill); Castles in art; Art, European--18th century</display>
+                <subject>
+                    <term type="geographicalPlace" vocab="TGN" refid="7147073" href="http://vocab.getty.edu/page/tgn/7147073" dataDate="2022-11-07" xml:lang="en">Königstein (hill)</term>
+           <term type="conceptTopic" vocab="LCSH" refid="sh85020733" href="http://id.loc.gov/authorities/subjects/sh85020733" dataDate="2022-11-07" xml:lang="en">Castles in art</term>
+           <term type="otherTopic" vocab="LCSH" refid="sh2009115447" href="http://id.loc.gov/authorities/subjects/sh2009115447" dataDate="2022-11-07" xml:lang="en">Art, European--18th century</term>
+                </subject>
+            </subjectSet>
+<subjectSet>
+                <display>Peasants</display>
+                <subject>
+                    <term type="descriptiveTopic" vocab="LCSH" refid="sh85099061" href="http://id.loc.gov/authorities/subjects/sh85099061" dataDate="2022-11-07">Peasants</term>
+                </subject>
+            </subjectSet>
+<subjectSet>
+                <display>Cows</display>
+                <subject>
+                    <term type="descriptiveTopic" vocab="LCSH" refid="sh85033666" href="http://id.loc.gov/authorities/subjects/sh85033666" dataDate="2022-11-07">Cows</term>
+                </subject>
+            </subjectSet>
+            <techniqueSet>
+                <display>Oil Painting</display>
+                <technique vocab="AAT" refid="300178684" href="http://vocab.getty.edu/page/aat/300178684" dataDate="2022-11-07">oil painting (technique)</technique>
+            </techniqueSet>
+            <titleSet>
+                <display xml:lang="en" source="The National Gallery of Art, Washington, D.C.">The Fortress of Königstein, 1756-1758</display>
+                <title type="repository" pref="true" xml:lang="en" source="The National Gallery of Art, Washington, D.C" dataDate="2022-11-07">The Fortress of Königstein, 1756-1758</title>
+                <title type="popular" dataDate="2022-11-07"  xml:lang="en">The Fortress of Königstein from the North-West</title>
+            </titleSet>
+            <worktypeSet>
+                <display>Original print on canvas</display>
+                <workType vocab="AAT" refid="300041567" href="http://vocab.getty.edu/page/aat/300041567" dataDate="2022-11-07" xml:lang="">original prints</workType>
+            </worktypeSet>
+        </work>
+        <image refid="80924" href="https://www.nga.gov/collection/art-object-page.80924.html" id="hp3-2" dataDate="2022-11-07" source="National Gallery of Art, Washington, D.C.">
+            <relationSet>
+                <display>See also the original painting: The Fortress of Königstein, 1756-1758</display>
+                <relation type="imageOf" relids="hp3-1">The Fortress of Königstein, 1756-1758</relation>
+            </relationSet>
+            <titleSet>
+                <display>The Fortress of Königstein, 1756-1758</display>
+                <title>High resolution digital image of the painting: The Fortress of Königstein, 1756-1758</title>
+            </titleSet>    
+        </image>
+    </vra>
